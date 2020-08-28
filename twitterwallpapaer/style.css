@@ -1,0 +1,5 @@
+body{
+    background-image: url('chrome-extension://__MSG_@@extension_id__/wallpaper.png') !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+  }

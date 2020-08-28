@@ -1,0 +1,17 @@
+{
+    "name": "chrome-stylize",
+    "author": "Akira HIRATA",
+    "description": "chrome extension for customize CSS and JS.",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "web_accessible_resources": ["*"],
+    "permissions": ["storage"],
+    "content_scripts": [
+      {
+        "run_at":"document_end",
+        "all_frames": true,
+        "matches": ["https://twitter.com/*"],
+        "png":["wallpaper.png"],"css": ["style.css"],"js":["jQuery.min.js","hide.js"]
+      }
+    ]
+  }
