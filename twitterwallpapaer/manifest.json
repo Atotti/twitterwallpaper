@@ -11,7 +11,7 @@
         "run_at":"document_end",
         "all_frames": true,
         "matches": ["https://twitter.com/*"],
-        "png":["wallpaper.png"],"css": ["style.css"],"js":["jQuery.min.js","hide.js"]
+        "css": ["style.css"]
       }
     ]
   }
