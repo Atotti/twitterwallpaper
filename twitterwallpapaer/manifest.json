@@ -1,6 +1,6 @@
 {
     "name": "chrome-stylize",
-    "author": "Akira HIRATA",
+    "author": "ayu",
     "description": "chrome extension for customize CSS and JS.",
     "version": "1.0.0",
     "manifest_version": 2,
