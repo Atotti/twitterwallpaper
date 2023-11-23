@@ -11,5 +11,5 @@ twitterの背景を自由に変えられるchromeの拡張機能です。
         manifest.json
         REDME.txt
         style.css
-        walperpar_kuroko.png
+        wallperpar.png
 ```
