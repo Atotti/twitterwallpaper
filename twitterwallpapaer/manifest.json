@@ -10,7 +10,7 @@
       {
         "run_at":"document_end",
         "all_frames": true,
-        "matches": ["https://twitter.com/*"],
+        "matches": ["https://x.com/*"],
         "css": ["style.css"]
       }
     ]
